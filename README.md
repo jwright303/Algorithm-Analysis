@@ -2,7 +2,7 @@
 These are programs that I wrote for my analysis of algorithms class. Some of the topics that are covered are recursion, dynamic programming, and analyzing algorithm complexity.
 
 ### Sorting Algorithms
-The sorting assignment mainly focused on insert sort and merge sort algorithms. Insert sort is written iteratively and the merge sort algorithm is written recursively. The purpose of this assignment is to analyze the time complexity in the two algorithms which can be seen in the output of running them. They work by generating a random array to sort, each sorting the same array.</br>
+The sorting assignment mainly focused on insert sort and merge sort algorithms. Insert sort is written iteratively and the merge sort algorithm is written recursively. The purpose of this assignment is to analyze the time complexity in the two algorithms which can be seen in the output of running them. They work by generating a random array of a variable size and measuring the time it takes to sort it. To start both create a random array and print it before and after being sorted to show the sorting functionality.</br>
 <img width="1424" alt="Screen Shot 2022-07-18 at 5 02 58 PM" src="https://user-images.githubusercontent.com/41707123/179636757-92b4e4de-6b3e-479f-bcc9-abe9584814ee.png">
 
 
